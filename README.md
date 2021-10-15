@@ -3,8 +3,9 @@
     - [Kubernetes](https://github.com/kubernetes/kubernetes)
     - [RKE2](https://github.com/rancher/rke2)
     - [FluxCD](https://github.com/fluxcd/flux)
-    - [Rook](https://github.com/rook/rook)
+    - [Longhorn](https://github.com/longhorn/longhorn)
+    - [Velero](https://github.com/vmware-tanzu/velero)
     - [Cilium](https://github.com/cilium/cilium)
 - 🌱 I’m currently learning programming Go to contribute to some projects listed above or other ones.
 - 💞️ I’m looking to collaborate on building reliable PaaS tools.
-- 📫 You can reach me on my private email address: jan.lauber@protonmail.ch
+- 📫 You can reach me on my private email address: jan.lauber+github@protonmail.ch
