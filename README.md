@@ -10,5 +10,3 @@
 - 📫 You can reach me on my private email address: jan.lauber+github@protonmail.ch
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janlauber&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlauber)](https://github.com/anuraghazra/github-readme-stats)
