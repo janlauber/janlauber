@@ -9,4 +9,4 @@
 - 💞️ I’m looking to collaborate on building reliable PaaS tools.
 - 📫 You can reach me on my private email address: jan.lauber+github@protonmail.ch
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janlauber&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janlauber&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
