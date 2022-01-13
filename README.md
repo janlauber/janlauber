@@ -22,6 +22,7 @@
 #### Development:
 
 ```go
+// REST API for information about janlauber
 package main
 
 import (
@@ -85,6 +86,11 @@ func main() {
 <hr>
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janlauber&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+#### Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlauber&layout=compact&theme=vue&card_width=300&hide_title=true)](https://github.com/janlauber/janlauber)
+<a href="https://youtu.be/dQw4w9WgXcQ">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=janlauber&count_private=true&theme=vue&show_icons=true&hide_title=false&count_private=true&include_all_commits=true" />
+</a>
+<a href="https://youtu.be/dQw4w9WgXcQ">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janlauber&layout=compact&theme=vue&hide_title=false" />
+</a>
