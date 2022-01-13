@@ -16,7 +16,7 @@
 <hr>
 <details>
     <summary>
-    <i>Nerd section</i>
+    <i><b> Nerd section<b></i> 👨‍💻
     </summary>
 
 #### Development:
@@ -83,8 +83,8 @@ func main() {
 
 }
 ```
-<hr>
 </details>
+<hr>
 
 #### Statistics
 
