@@ -94,3 +94,5 @@ func main() {
 <a href="https://youtu.be/dQw4w9WgXcQ">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janlauber&layout=compact&theme=vue&hide_title=false" />
 </a>
+
+![](https://github-profile-trophy.vercel.app/?username=janlauber&row=1&column=9&theme=darkhub&no-frame=true)
