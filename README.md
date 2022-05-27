@@ -5,7 +5,7 @@
     - [FluxCD](https://github.com/fluxcd/flux)
     - [Longhorn](https://github.com/longhorn/longhorn)
     - [Cilium](https://github.com/cilium/cilium)
-- 🛠️ Also I'm learning the following languages to code some awesome web applications:
+- 🛠️ Also I'm learning the following languages/frameworks to code some awesome web applications:
     - [NextJS](https://nextjs.org)
     - [GoLang](https://go.dev)
 - 📖 In 2020, I started my bachelors degree at the [Bern University of Applied Sciences](https://bfh.ch)
