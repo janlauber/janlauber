@@ -10,7 +10,7 @@
 - 📖 In 2020, I started my bachelors degree at the [Bern University of Applied Sciences](https://bfh.ch)
 - 🌱 I’m currently learning programming and other concepts to contribute to some projects listed above or other ones.
 - 💞️ I’m looking to collaborate on building reliable PaaS and Cloud Native tools/applications.
-- 📫 You can reach me on my private email address: jan.lauber+github@protonmail.ch
+- 📫 You can reach me on my private email address: jan@lauber.digital
 - 📇 [LinkedIn](https://www.linkedin.com/in/jan-lauber/), [Instagram](https://www.instagram.com/jaenu.lauber/)
 <hr>
 
