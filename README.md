@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @janlauber
 - 👀 I’m interested in the following CNCF projects:
     - [Kubernetes](https://github.com/kubernetes/kubernetes)
-    - [RKE2](https://github.com/rancher/rke2)
     - [FluxCD](https://github.com/fluxcd/flux)
     - [Cilium](https://github.com/cilium/cilium)
 - 🛠️ Also I'm learning the following languages/frameworks to code some awesome web applications:
